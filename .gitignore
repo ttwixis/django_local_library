@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Текстовые файлы резервных копий
+*.bak
+
+# База данных
+*.sqlite3
